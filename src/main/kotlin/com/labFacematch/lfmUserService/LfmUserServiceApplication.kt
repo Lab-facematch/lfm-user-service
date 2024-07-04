@@ -1,4 +1,4 @@
-package com.lab_facematch.lfm_user_service
+package com.labFacematch.lfmUserService
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class LfmUserServiceApplication
 
 fun main(args: Array<String>) {
-	runApplication<LfmUserServiceApplication>(*args)
+    runApplication<LfmUserServiceApplication>(*args)
 }

@@ -1,4 +1,4 @@
-package com.lab_facematch.lfm_user_service
+package com.labFacematch.lfmUserService
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
