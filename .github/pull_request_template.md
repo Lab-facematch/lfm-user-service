@@ -25,4 +25,6 @@ Por favor, inclua um resumo do que foi alterado neste PR e o motivo dessas mudan
 
 ## Links relacionados
 
+Esse PR resolve o(s) seguinte(s) problema(s): #issue_number.
+
 Closes #issue_number.
